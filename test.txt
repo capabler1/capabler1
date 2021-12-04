@@ -1,5 +1,5 @@
 <<<<<<< HEAD
 hello
 =======
-hello,git
+hello,git，text
 >>>>>>> 0098c882857dcd4095bd24ef51f0179987063c92
